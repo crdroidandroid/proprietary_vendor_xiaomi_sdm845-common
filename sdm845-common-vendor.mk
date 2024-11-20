@@ -136,16 +136,6 @@ PRODUCT_PACKAGES += \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxVpp \
-    libOmxWmaDec \
     libOpenCL \
     libQSEEComAPI \
     libQTEEConnector_vendor \
@@ -297,8 +287,18 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     libFileMux_proprietary \
+    libOmxAacDec \
+    libOmxAlacDec \
+    libOmxAmrDec \
+    libOmxAmrwbplusDec \
+    libOmxApeDec \
     libOmxDsdDec \
+    libOmxEvrcDec \
+    libOmxG711Dec \
+    libOmxQcelp13Dec \
     libOmxVideoDSMode \
+    libOmxVpp \
+    libOmxWmaDec \
     libadm \
     libadpcmdec \
     libcppf \
