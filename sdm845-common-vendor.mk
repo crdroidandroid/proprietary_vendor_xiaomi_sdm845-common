@@ -206,8 +206,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
     vendor.qti.hardware.fm@1.0-impl \
     vendor.qti.hardware.fm@1.0_vendor \
-    libOmxVideoDSMode \
-    libOmxVpp \
     liba2dpoffload \
     libacdb-fts \
     libacdbrtac \
